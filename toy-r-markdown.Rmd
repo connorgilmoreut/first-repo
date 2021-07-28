@@ -1,0 +1,13 @@
+---
+title: "Toy Markdown File"
+output: md_document
+---
+
+
+```{r}
+random_var <- rnorm(100)
+hist(random_var)
+```
+
+
+
